@@ -1,5 +1,5 @@
-require("rspec")
-require("scrabble")
+require('rspec')
+require('scrabble')
 
 describe("String#scrabble") do
   it("returns a score for a letter") do
